@@ -19,7 +19,7 @@
 - **HC: Orbsoak = 6s Dot + kleiner Dmg Kreis um euch**
 
 **Phase 2 (BL) bei 25% HP / Liadrin 100% Energie**
-- Alle werden voll geheilt, Kith'ix wird 8s gestunt, wir machen 50% mehr Dmg und 100% mehr Heal
+- Alle werden voll geheilt, Kith'ix wird 8s gestunt, wir werden kurz gestunt (BL danach!), wir machen 50% mehr Dmg und 100% mehr Heal
 - Achtfache Finsternis = Enrage nach 1min/bei der 8. Finsternis, jede Finsternis macht Dmg, Liadrin wird schwächer
 - Nulltor: Spreadet mit lila Kreisen und legt euer Tor ab, am besten außen, kurz danach kommen viele Kugeln aus allen Toren
 - 6mal (HC 5mal) von so einer Kugel getroffen = tot
